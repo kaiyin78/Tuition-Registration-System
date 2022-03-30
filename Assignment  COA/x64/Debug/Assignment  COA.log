@@ -1,0 +1,94 @@
+﻿  Assembling Source.asm...
+F:\Irvine\irvine\SmallWin.inc(10): error A2008: syntax error : .
+F:\Irvine\irvine\SmallWin.inc(11): error A2008: syntax error : .
+F:\Irvine\irvine\SmallWin.inc(12): error A2008: syntax error : .
+F:\Irvine\irvine\SmallWin.inc(299): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(302): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(311): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(314): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(318): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(323): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(332): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(339): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(343): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(347): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(351): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(357): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(362): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(365): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(369): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(372): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(380): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(385): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(390): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(393): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(398): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(403): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(406): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(412): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(418): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(421): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(428): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(434): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(441): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(444): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(448): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(452): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(456): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(460): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(464): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(467): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(472): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(478): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(481): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(484): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(488): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(495): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(502): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(509): error A2008: syntax error : ,
+F:\Irvine\irvine\SmallWin.inc(516): error A2008: syntax error : near
+F:\Irvine\irvine\Irvine32.inc(22): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(66): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(71): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(76): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(82): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(87): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(93): error A2008: syntax error : ,
+F:\Irvine\irvine\Irvine32.inc(99): error A2008: syntax error : ,
+Source.asm(3): error A2008: syntax error : .
+Source.asm(4): error A2008: syntax error : .
+Source.asm(5): error A2008: syntax error : .
+Source.asm(8): error A2008: syntax error : ,
+Source.asm(9): error A2008: syntax error : ,
+Source.asm(61): error A2008: syntax error : INVOKE
+Source.asm(138): error A2008: syntax error : INVOKE
+Source.asm(149): error A2008: syntax error : INVOKE
+Source.asm(191): error A2008: syntax error : INVOKE
+Source.asm(243): error A2008: syntax error : INVOKE
+Source.asm(378): error A2008: syntax error : encrypt
+Source.asm(429): error A2008: syntax error : INVOKE
+Source.asm(440): error A2008: syntax error : INVOKE
+Source.asm(469): error A2008: syntax error : decrypt
+Source.asm(541): error A2008: syntax error : INVOKE
+Source.asm(576): error A2008: syntax error : INVOKE
+Source.asm(626): error A2008: syntax error : INVOKE
+Source.asm(175): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(178): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(179): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(206): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(217): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(231): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(234): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(235): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(278): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(305): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(306): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(347): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(388): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(394): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(417): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(476): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(484): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(515): error A2229: cannot use labels and 32-bit addressing in the same expression
+Source.asm(628): warning A6004: procedure argument or local not referenced : C
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Source.obj" /I "F:\Irvine\irvine" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
